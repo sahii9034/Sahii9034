@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sahithi</h1>
-<h3 align="center"><b>A passionate FullStack developer</b></h3>
+<h3 align="center"><b>A passionate SoftWare developer</b></h3>
 
 - 🌱 I’m currently learning **Advanced Java, Springboot**
 
